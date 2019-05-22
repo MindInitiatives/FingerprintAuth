@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FingerprintAuth</string>
+    <string name="identity_text">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="login_text">You have successfully logged in with fingerprint authentication</string>
+
+</resources>
